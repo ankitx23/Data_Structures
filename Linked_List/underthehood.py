@@ -21,4 +21,4 @@ head= {
 
 print (head)
 
-print(head ["next"]["value"])
+print(head["next"]["value"])
