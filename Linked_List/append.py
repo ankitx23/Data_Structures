@@ -1,4 +1,4 @@
-#11 -> 22 -> 33 -> 55
+# #11 -> 22 -> 33 -> 55
 
 class Node:
     def __init__(self, value):
@@ -29,7 +29,5 @@ class LinkedList:
         
 my_linked_list = LinkedList(None)
 my_linked_list.append(22)
-my_linked_list.append(33)
-my_linked_list.append(55)
 my_linked_list.print_list()
 
