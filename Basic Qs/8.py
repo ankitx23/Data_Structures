@@ -21,4 +21,4 @@ root = int (n**0.5)
 if root*root==n:
     print(f"the number {n} is square of: ",root)
 else:
-    print("it is not")
+    print("it is not").
